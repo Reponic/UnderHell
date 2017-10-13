@@ -1,0 +1,4 @@
+<br />
+<b>Warning</b>:  imagepng(): supplied argument is not a valid Image resource in <b>/share/www/vhost-htdocs/tkool/fancontents/tool/chibi/image.php</b> on line <b>83</b><br />
+<br />
+<b>Warning</b>:  imagedestroy(): supplied argument is not a valid Image resource in <b>/share/www/vhost-htdocs/tkool/fancontents/tool/chibi/image.php</b> on line <b>84</b><br />
